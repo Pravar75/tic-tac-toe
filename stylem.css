@@ -1,0 +1,16 @@
+ body {
+         background-image: url('intro.jpeg');
+         background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+.Homepage {
+  align-content: center;
+  font-size: 40px;
+  width: 50%;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 10px;
+} {
+	
+}
+
