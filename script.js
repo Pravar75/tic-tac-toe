@@ -6,7 +6,7 @@ function nextpage(){
     let checkSelect = document.getElementById('accept').checked;
     console.log("Hello");
     if(checkSelect){
-        location.replace("./index.html");
+        location.replace("./htmlfinal.html");
     }
     else{
         let element = document.createElement('h3');
